@@ -2,7 +2,7 @@
 
 <h1><%=@post.title%></h1>
 <p><%=link_to @post.cat.try(:name).to_s,mycat_path(name: @post.cat.name.parameterize)%></p>
-<img src="/wp-content/uploads/2019/05/image-4.png" class="mypic"/>
+<img src="/mypic/OIP.DVRHqH9ITPTNkPrteaqF2wHaHa" class="mypic"/>
 <%=simple_format(@post.content)%>
 
 <%=render @post.memos%>

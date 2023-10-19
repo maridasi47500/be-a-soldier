@@ -1,11 +1,10 @@
-# README :musical_note:
+# être soldat
+bienvenue sur ce repository de soldat
+
+:dart:
+
+- connexion pour écrire des posts
+- memos
+- sur le thème d'être soldat -e 
 
 
-* Bienvenue dans ce repo sur le violon :violin:
-* des memos :memo:
-* des partitions :musical_score: :musical_keyboard:
-* enjoy :performing_arts:
-# jouer-du-violon
-
-
-# to-be-a-soldier
